@@ -1,0 +1,6 @@
+this program is used to read the given line or to read the hole pdf 
+# use of module pyttsx3
+# use of module pyPDF2
+ 
+# we can also used this to check the no of pages present in the pdf 
+# read all the data with the help of loop 
